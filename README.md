@@ -1,4 +1,4 @@
-<h3 align="center">🌎Real world based Project</h3>
+<h3 align="left">🌎Real world based Project</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash-patil12&label=Profile%20views&color=0e75b6&style=flat" alt="akash-patil12" /> </p>
 
